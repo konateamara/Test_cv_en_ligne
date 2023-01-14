@@ -1,0 +1,38 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font: normal;
+    background-color: black;
+}
+.contenu{
+    position: relative;
+    width: 595px;
+    height: 842px;
+    margin: 0 auto;
+    background-color: #ffff;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    
+}
+.left{
+    position: relative;
+    width: 184px;
+    height:842px;
+    background-color: #43978D;
+}
+img{
+    position: relative;
+    width: 151px;
+    height: 152px;
+    overflow: hidden;
+    
+
+}
+.span{
+    background-color: white;
+    border-radius: 7px 5px;
+}
+.right{
+    position: relative;
+    background-color: white;
+}
